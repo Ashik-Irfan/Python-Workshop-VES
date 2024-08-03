@@ -44,7 +44,7 @@ HAPPY CODING 🔥🚀
 
   <sub>Author:
   <a href="https://www.linkedin.com/company/ieee-sri-sairam-institute-of-technology-sb/mycompany/" target="_blank">IEEE SSIT Student Branch</a><br>
-  <small> Second Edition: July, 2021</small>
+  <small> First Edition: August, 2024</small>
   </sub>
 </div>
 
