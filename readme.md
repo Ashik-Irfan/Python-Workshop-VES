@@ -46,13 +46,10 @@ HAPPY CODING 🔥🚀
   </a>
 
   <sub>Author:
-  <a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+  <a href="https://www.linkedin.com/company/ieee-sri-sairam-institute-of-technology-sb/mycompany/" target="_blank">IEEE SSIT Student Branch</a><br>
   <small> Second Edition: July, 2021</small>
   </sub>
 </div>
-
-🇧🇷 [Portuguese](./Portuguese/README.md)
-🇨🇳 [中文](./Chinese/README.md)
 
 [Day 2 >>](./02_Day_Variables_builtin_functions/02_variables_builtin_functions.md)
 
